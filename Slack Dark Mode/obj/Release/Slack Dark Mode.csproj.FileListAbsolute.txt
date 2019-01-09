@@ -1,0 +1,6 @@
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\bin\Release\Slack Dark Mode.exe.config
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\bin\Release\Slack Dark Mode.exe
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\bin\Release\Slack Dark Mode.pdb
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Release\Slack Dark Mode.csproj.CoreCompileInputs.cache
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Release\Slack Dark Mode.exe
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Release\Slack Dark Mode.pdb

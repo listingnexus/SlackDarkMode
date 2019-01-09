@@ -1,0 +1,7 @@
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\bin\Debug\Slack Dark Mode.exe.config
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\bin\Debug\Slack Dark Mode.exe
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\bin\Debug\Slack Dark Mode.pdb
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Debug\Slack Dark Mode.csprojAssemblyReference.cache
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Debug\Slack Dark Mode.csproj.CoreCompileInputs.cache
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Debug\Slack Dark Mode.exe
+C:\Users\tfry\source\repos\Slack Dark Mode\Slack Dark Mode\obj\Debug\Slack Dark Mode.pdb
